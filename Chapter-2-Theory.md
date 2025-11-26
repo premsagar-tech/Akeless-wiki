@@ -207,4 +207,3 @@ You now understand:
 - Authentication, rotation, and sync flows  
 - Multi-cluster and GitOps design considerations  
 
-This prepares you for Chapter 3: **Hands-On Deployment Lab**.
