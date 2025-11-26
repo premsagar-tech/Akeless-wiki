@@ -80,4 +80,4 @@ You should now be able to answer:
 ---
 
 ## ✅ Lab Complete
-This lab builds conceptual readiness before doing the real deployment in Chapter 3.
+This lab builds conceptual readiness before doing the real deployment.
